@@ -1,0 +1,1 @@
+Este archivo fue creado en la rama feature1 para probar git merge con la rama master
